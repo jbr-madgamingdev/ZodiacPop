@@ -1,8 +1,5 @@
 package com.nativegame.animalspop.item;
 
-/**
- * Created by Oscar Liang on 2022/12/10
- */
 
 public class Item {
     public static final String COIN = "Coin";

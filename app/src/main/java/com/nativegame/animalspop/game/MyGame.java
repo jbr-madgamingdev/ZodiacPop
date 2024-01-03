@@ -19,9 +19,6 @@ import com.nativegame.nattyengine.Game;
 import com.nativegame.nattyengine.GameView;
 import com.nativegame.nattyengine.ui.GameActivity;
 
-/**
- * Created by Oscar Liang on 2022/12/10
- */
 
 public class MyGame extends Game {
 

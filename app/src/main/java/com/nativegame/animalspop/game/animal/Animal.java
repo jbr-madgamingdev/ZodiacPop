@@ -10,10 +10,6 @@ import com.nativegame.nattyengine.event.GameEvent;
 import com.nativegame.nattyengine.entity.sprite.AnimatedSprite;
 import com.nativegame.nattyengine.entity.sprite.Sprite;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
-
 public class Animal extends AnimatedSprite {
 
     private static final int IDLE_TIME_PER_FRAME = 80;

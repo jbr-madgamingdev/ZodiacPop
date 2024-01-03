@@ -10,9 +10,6 @@ import com.nativegame.animalspop.item.Item;
 
 import java.util.ArrayList;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class DatabaseHelper extends SQLiteOpenHelper {
 

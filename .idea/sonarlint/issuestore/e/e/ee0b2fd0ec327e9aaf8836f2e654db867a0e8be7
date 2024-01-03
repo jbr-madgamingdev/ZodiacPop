@@ -1,0 +1,10 @@
+
+Œ
+java:S1319Ã"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ôø«žûÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ÐÏË•
+W
+java:S1126g"AReplace this if-then-else statement by a single return statement.(¨ßµ•
+X
+java:S1126•"AReplace this if-then-else statement by a single return statement.(¨ßµ•
+X
+java:S1126§"AReplace this if-then-else statement by a single return statement.(¨ßµ•

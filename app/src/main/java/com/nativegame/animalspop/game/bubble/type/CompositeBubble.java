@@ -7,9 +7,6 @@ import com.nativegame.nattyengine.Game;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/12/10
- */
 
 public class CompositeBubble extends Bubble {
 

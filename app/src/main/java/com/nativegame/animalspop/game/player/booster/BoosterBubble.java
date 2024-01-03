@@ -6,9 +6,6 @@ import com.nativegame.animalspop.game.player.PlayerBubble;
 import com.nativegame.animalspop.sound.MySoundEvent;
 import com.nativegame.nattyengine.Game;
 
-/**
- * Created by Oscar Liang on 2022/12/10
- */
 
 public abstract class BoosterBubble extends PlayerBubble {
 

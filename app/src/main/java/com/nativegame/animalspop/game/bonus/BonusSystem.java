@@ -9,9 +9,6 @@ import com.nativegame.nattyengine.entity.GameObject;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class BonusSystem extends GameObject implements BonusBubble.BonusTimeEndListener {
 

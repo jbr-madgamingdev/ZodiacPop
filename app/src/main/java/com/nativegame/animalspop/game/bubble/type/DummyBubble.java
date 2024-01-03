@@ -4,9 +4,6 @@ import com.nativegame.animalspop.game.bubble.Bubble;
 import com.nativegame.animalspop.game.bubble.BubbleColor;
 import com.nativegame.nattyengine.Game;
 
-/**
- * Created by Oscar Liang on 2022/12/10
- */
 
 public class DummyBubble extends Bubble {
 
