@@ -9,29 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6977e25e-4df8-4bca-a144-ad6ee1ed662c" name="Changes" comment="Initial Creation">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AnimalsPop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AnimalsPop.app.androidTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AnimalsPop.app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AnimalsPop.app.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AnimalsPop.app.unitTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/database/DatabaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/database/DatabaseHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/Layer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/Layer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/MyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/MyGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bonus/BonusBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bonus/BonusBubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bonus/BonusSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bonus/BonusSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bubble/type/CompositeBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bubble/type/CompositeBubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bubble/type/DummyBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/bubble/type/DummyBubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/player/booster/BoosterBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/game/player/booster/BoosterBubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/item/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/nativegame/animalspop/item/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="6977e25e-4df8-4bca-a144-ad6ee1ed662c" name="Changes" comment="Initial Creation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704275002613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Creation">
+      <created>1704275465375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704275465375</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Creation">
+      <created>1704275712141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704275712141</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +195,21 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
