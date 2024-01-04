@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/nativegamestudio/animals-pop/blob/master/app/src/main/res/drawable/logo.png" width="600">
+<img src="https://github.com/jbr-madgamingdev/ZodiacPop/blob/master/app/src/main/res/drawable/logo.png" width="600">
 
 ![version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![platform](https://img.shields.io/badge/platform-Android-brightgreen)
