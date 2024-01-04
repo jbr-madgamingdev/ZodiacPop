@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Animals Pop</string>
-    <string name="app_version">1.1</string>
+    <string name="app_name">Zodiac Pop</string>
+    <string name="app_version">1.0</string>
 
     <string name="txt_level">Level %1$d</string>
     <string name="txt_loss">You loss !</string>
@@ -41,4 +41,5 @@
     <!-- Text of Ad code -->
     <string name="txt_admob_banner">ca-app-pub-3940256099942544/6300978111</string>
     <string name="txt_admob_reward">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="web_access_for_html_data_consent">Web Access for HTML Data Consent</string>
 </resources>

@@ -32,4 +32,11 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'com.google.android.gms:play-services-ads:22.6.0'
     implementation 'com.github.nativegamestudio:natty-engine:1.0'
+
+    implementation("com.android.volley:volley:1.2.1")
+
+    implementation 'com.alibaba:fastjson:2.0.42'
+    implementation("org.greenrobot:eventbus:3.3.1")
+    implementation 'com.appsflyer:af-android-sdk:6.12.4'
+    implementation "com.android.installreferrer:installreferrer:2.2"
 }
