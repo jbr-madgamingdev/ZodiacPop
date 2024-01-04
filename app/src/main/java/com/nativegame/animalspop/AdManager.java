@@ -11,9 +11,6 @@ import com.google.android.gms.ads.rewarded.RewardItem;
 import com.google.android.gms.ads.rewarded.RewardedAd;
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class AdManager {
 
@@ -81,14 +78,11 @@ public class AdManager {
             }
         });
 
-        mRewardedAd.show(mActivity, new OnUserEarnedRewardListener() {
-            @Override
-            public void onUserEarnedReward(RewardItem rewardItem) {
-                // Handle the reward
-                // Toast.makeText(mActivity, "Reward!", Toast.LENGTH_SHORT).show();
-                mListener.onEarnReward();
-                mRewardEarned = true;
-            }
+        mRewardedAd.show(mActivity, rewardItem -> {
+            // Handle the reward
+            // Toast.makeText(mActivity, "Reward!", Toast.LENGTH_SHORT).show();
+            mListener.onEarnReward();
+            mRewardEarned = true;
         });
 
         return true;

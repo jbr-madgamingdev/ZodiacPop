@@ -1,8 +1,5 @@
 package com.nativegame.animalspop.item.product;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class Product {
 

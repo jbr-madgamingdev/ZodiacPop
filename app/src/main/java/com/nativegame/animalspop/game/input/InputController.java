@@ -7,9 +7,6 @@ import com.nativegame.animalspop.R;
 import com.nativegame.nattyengine.Game;
 import com.nativegame.nattyengine.input.TouchController;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class InputController extends TouchController implements View.OnClickListener {
 

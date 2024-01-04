@@ -18,9 +18,6 @@ import com.nativegame.nattyengine.ui.GameDialog;
 
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class ShopDialog extends GameDialog implements View.OnClickListener {
 

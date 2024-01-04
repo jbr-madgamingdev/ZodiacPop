@@ -13,9 +13,7 @@ import com.nativegame.animalspop.database.DatabaseHelper;
 import com.nativegame.animalspop.game.bubble.BubbleSystem;
 import com.nativegame.nattyengine.Game;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class BoosterManager {
 

@@ -5,9 +5,6 @@ import com.nativegame.animalspop.item.Item;
 
 import java.util.HashMap;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class PrizeManager {
 

@@ -19,9 +19,7 @@ import com.nativegame.nattyengine.entity.particles.ParticleSystem;
 
 import java.util.Arrays;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class Bubble extends CollidableSprite {
 

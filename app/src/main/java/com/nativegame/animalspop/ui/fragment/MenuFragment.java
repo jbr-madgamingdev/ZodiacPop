@@ -18,9 +18,6 @@ import com.nativegame.animalspop.ui.dialog.SettingDialog;
 import com.nativegame.animalspop.sound.MySoundEvent;
 import com.nativegame.nattyengine.ui.GameFragment;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class MenuFragment extends GameFragment implements View.OnClickListener,
         TransitionEffect.OnTransitionListener {

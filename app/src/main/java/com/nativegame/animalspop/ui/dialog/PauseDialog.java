@@ -12,9 +12,6 @@ import com.nativegame.animalspop.sound.MySoundManager;
 import com.nativegame.nattyengine.ui.GameActivity;
 import com.nativegame.nattyengine.ui.GameDialog;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class PauseDialog extends GameDialog implements View.OnClickListener,
         TransitionEffect.OnTransitionListener {

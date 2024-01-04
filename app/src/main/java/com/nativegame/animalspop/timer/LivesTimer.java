@@ -10,9 +10,6 @@ import com.nativegame.animalspop.R;
 
 import java.util.Locale;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class LivesTimer {
 

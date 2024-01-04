@@ -7,9 +7,7 @@ import com.nativegame.animalspop.game.Layer;
 import com.nativegame.nattyengine.Game;
 import com.nativegame.nattyengine.entity.sprite.AnimatedSprite;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class BubblePopEffect extends AnimatedSprite {
 

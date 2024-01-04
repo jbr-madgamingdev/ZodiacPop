@@ -2,9 +2,6 @@ package com.nativegame.animalspop.sound;
 
 import com.nativegame.nattyengine.sound.SoundEvent;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public enum MySoundEvent implements SoundEvent {
     // Bubble sound

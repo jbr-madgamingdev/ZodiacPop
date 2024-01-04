@@ -10,9 +10,6 @@ import android.view.animation.AnimationUtils;
 
 import com.nativegame.animalspop.R;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class TransitionEffect implements View.OnTouchListener, Animation.AnimationListener {
 

@@ -2,9 +2,7 @@ package com.nativegame.animalspop.game.counter.combo;
 
 import com.nativegame.animalspop.R;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public enum Combo {
     WOW,

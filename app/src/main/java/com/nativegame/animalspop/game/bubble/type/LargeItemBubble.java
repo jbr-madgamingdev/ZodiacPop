@@ -14,9 +14,7 @@ import com.nativegame.nattyengine.entity.sprite.CollidableSprite;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class LargeItemBubble extends CompositeBubble {
 

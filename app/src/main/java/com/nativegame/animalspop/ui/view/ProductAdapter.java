@@ -16,9 +16,6 @@ import com.nativegame.animalspop.ui.UIEffect;
 
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ProductViewHolder> {
 

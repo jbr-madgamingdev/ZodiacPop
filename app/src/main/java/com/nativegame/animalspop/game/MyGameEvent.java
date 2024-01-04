@@ -2,9 +2,6 @@ package com.nativegame.animalspop.game;
 
 import com.nativegame.nattyengine.event.GameEvent;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public enum MyGameEvent implements GameEvent {
     // Player input event

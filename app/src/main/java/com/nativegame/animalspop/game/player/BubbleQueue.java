@@ -5,10 +5,6 @@ import com.nativegame.animalspop.game.bubble.BubbleColor;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
-
 public class BubbleQueue {
 
     private static final int EXTRA_MOVES = 5;

@@ -4,9 +4,6 @@ import com.nativegame.animalspop.game.MyGameEvent;
 import com.nativegame.nattyengine.Game;
 import com.nativegame.nattyengine.event.GameEvent;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class PopTargetCounter extends TargetCounter {
 

@@ -14,9 +14,6 @@ import com.nativegame.nattyengine.input.TouchController;
 import com.nativegame.nattyengine.entity.sprite.Sprite;
 import com.nativegame.nattyengine.entity.sprite.CollidableSprite;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public abstract class PlayerBubble extends CollidableSprite {
 

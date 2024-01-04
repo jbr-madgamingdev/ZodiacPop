@@ -5,9 +5,6 @@ import android.content.Context;
 import com.nativegame.animalspop.R;
 import com.nativegame.nattyengine.sound.SoundManager;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class MySoundManager extends SoundManager {
 

@@ -27,9 +27,6 @@ import com.nativegame.animalspop.game.player.BasicBubble;
 import com.nativegame.nattyengine.entity.particles.ParticleSystem;
 import com.nativegame.nattyengine.ui.GameActivity;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class GameController extends GameObject implements AdManager.AdRewardListener {
 

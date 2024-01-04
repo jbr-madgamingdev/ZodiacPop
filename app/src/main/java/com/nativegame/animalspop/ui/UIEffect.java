@@ -6,10 +6,6 @@ import android.view.View;
 import android.view.animation.BounceInterpolator;
 import android.view.animation.OvershootInterpolator;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
-
 public class UIEffect {
 
     private static final BounceInterpolator BOUNCE_INTERPOLATOR = new BounceInterpolator();
@@ -29,32 +25,29 @@ public class UIEffect {
     }
 
     public static void createButtonEffect(View button) {
-        button.setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View view, MotionEvent event) {
-                switch (event.getAction()) {
-                    case MotionEvent.ACTION_DOWN:
-                        button.animate()
-                                .setStartDelay(0)
-                                .setDuration(300)
-                                .scaleX(0.8f)
-                                .scaleY(0.8f)
-                                .setInterpolator(BOUNCE_INTERPOLATOR);
-                        createColorFilter(view);
-                        break;
-                    case MotionEvent.ACTION_MOVE:
-                    case MotionEvent.ACTION_UP:
-                        button.animate()
-                                .setStartDelay(0)
-                                .setDuration(300)
-                                .scaleX(1)
-                                .scaleY(1)
-                                .setInterpolator(BOUNCE_INTERPOLATOR);
-                        clearColorFilter(view);
-                        break;
-                }
-                return false;
+        button.setOnTouchListener((view, event) -> {
+            switch (event.getAction()) {
+                case MotionEvent.ACTION_DOWN:
+                    button.animate()
+                            .setStartDelay(0)
+                            .setDuration(300)
+                            .scaleX(0.8f)
+                            .scaleY(0.8f)
+                            .setInterpolator(BOUNCE_INTERPOLATOR);
+                    createColorFilter(view);
+                    break;
+                case MotionEvent.ACTION_MOVE:
+                case MotionEvent.ACTION_UP:
+                    button.animate()
+                            .setStartDelay(0)
+                            .setDuration(300)
+                            .scaleX(1)
+                            .scaleY(1)
+                            .setInterpolator(BOUNCE_INTERPOLATOR);
+                    clearColorFilter(view);
+                    break;
             }
+            return false;
         });
     }
 

@@ -11,9 +11,7 @@ import com.nativegame.nattyengine.Game;
 import com.nativegame.nattyengine.event.GameEvent;
 import com.nativegame.nattyengine.entity.UIGameObject;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class ProgressBarCounter extends UIGameObject {
 

@@ -3,9 +3,7 @@ package com.nativegame.animalspop.game.bubble;
 import com.nativegame.animalspop.R;
 import com.nativegame.nattyengine.Game;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public enum BubbleColor {
     BLUE,

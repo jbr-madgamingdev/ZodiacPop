@@ -4,9 +4,7 @@ import com.nativegame.animalspop.R;
 import com.nativegame.animalspop.game.player.booster.FireBubble;
 import com.nativegame.nattyengine.Game;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class FireDotSystem extends DotSystem {
 

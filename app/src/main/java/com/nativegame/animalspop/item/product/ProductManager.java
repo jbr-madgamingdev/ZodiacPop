@@ -8,9 +8,6 @@ import com.nativegame.animalspop.item.Item;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class ProductManager {
 

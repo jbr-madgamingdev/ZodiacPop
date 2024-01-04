@@ -9,9 +9,7 @@ import com.nativegame.animalspop.game.effect.ItemEffect;
 import com.nativegame.animalspop.sound.MySoundEvent;
 import com.nativegame.nattyengine.Game;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class ItemBubble extends Bubble {
 

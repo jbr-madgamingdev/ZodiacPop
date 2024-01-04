@@ -16,9 +16,7 @@ import com.nativegame.nattyengine.entity.sprite.Sprite;
 import com.nativegame.nattyengine.event.GameEvent;
 import com.nativegame.nattyengine.entity.particles.ParticleSystem;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class BasicBubble extends PlayerBubble {
 

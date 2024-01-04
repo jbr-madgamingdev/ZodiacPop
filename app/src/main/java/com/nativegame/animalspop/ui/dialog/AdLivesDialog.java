@@ -11,9 +11,6 @@ import com.nativegame.animalspop.sound.MySoundEvent;
 import com.nativegame.nattyengine.ui.GameActivity;
 import com.nativegame.nattyengine.ui.GameDialog;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class AdLivesDialog extends GameDialog implements View.OnClickListener,
         AdManager.AdRewardListener {

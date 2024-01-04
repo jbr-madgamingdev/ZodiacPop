@@ -9,9 +9,7 @@ import com.nativegame.nattyengine.entity.sprite.CollidableSprite;
 import com.nativegame.animalspop.game.bubble.Bubble;
 import com.nativegame.animalspop.game.bubble.BubbleColor;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class Dot extends CollidableSprite {
 

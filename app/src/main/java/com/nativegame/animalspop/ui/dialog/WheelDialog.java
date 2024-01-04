@@ -20,9 +20,6 @@ import com.nativegame.nattyengine.ui.GameDialog;
 
 import java.util.Random;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class WheelDialog extends GameDialog implements View.OnClickListener,
         Animation.AnimationListener, AdManager.AdRewardListener {

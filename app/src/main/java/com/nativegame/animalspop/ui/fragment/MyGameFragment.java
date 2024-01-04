@@ -14,9 +14,6 @@ import com.nativegame.nattyengine.Game;
 import com.nativegame.nattyengine.GameView;
 import com.nativegame.nattyengine.ui.GameFragment;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class MyGameFragment extends GameFragment implements View.OnClickListener {
 

@@ -2,10 +2,6 @@ package com.nativegame.animalspop.level;
 
 import com.nativegame.nattyengine.level.Level;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
-
 public class MyLevel extends Level {
 
     public LevelType mLevelType;

@@ -12,9 +12,6 @@ import org.xmlpull.v1.XmlPullParserException;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class MyLevelManager extends LevelManager {
 

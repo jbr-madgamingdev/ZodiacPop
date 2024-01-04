@@ -11,9 +11,7 @@ import com.nativegame.nattyengine.collision.shape.RectCollisionShape;
 import com.nativegame.nattyengine.entity.particles.ParticleSystem;
 import com.nativegame.nattyengine.entity.sprite.CollidableSprite;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class LargeObstacleBubble extends CompositeBubble {
 

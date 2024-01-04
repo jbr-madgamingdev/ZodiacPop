@@ -29,14 +29,11 @@ import com.nativegame.nattyengine.ui.GameFragment;
 
 import java.util.ArrayList;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
 
 public class MapFragment extends GameFragment implements View.OnClickListener,
         TransitionEffect.OnTransitionListener {
 
-    private static final int TOTAL_LEVEL = 15;
+    private static final int TOTAL_LEVEL = 15; // Number of Levels to match Data.xml
 
     private DatabaseHelper mDatabaseHelper;
     private LivesTimer mLivesTimer;
@@ -107,16 +104,13 @@ public class MapFragment extends GameFragment implements View.OnClickListener,
         loadCoin();
 
         // We only show one dialog at a time
-        getView().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                if (mWheelTimer.isWheelReady()) {
-                    // Show the wheel dialog
-                    showWheelDialogAndShowLevel();
-                } else {
-                    // Show the current level dialog
-                    showLevelDialog(mCurrentLevel);
-                }
+        getView().postDelayed(() -> {
+            if (mWheelTimer.isWheelReady()) {
+                // Show the wheel dialog
+                showWheelDialogAndShowLevel();
+            } else {
+                // Show the current level dialog
+                showLevelDialog(mCurrentLevel);
             }
         }, 1200);
     }
@@ -135,12 +129,9 @@ public class MapFragment extends GameFragment implements View.OnClickListener,
             // Init button listener
             if (i <= mCurrentLevel) {
                 int level = i;
-                txtLevel.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        showLevelDialog(level);
-                        getGameActivity().getSoundManager().playSound(MySoundEvent.BUTTON_CLICK);
-                    }
+                txtLevel.setOnClickListener(v -> {
+                    showLevelDialog(level);
+                    getGameActivity().getSoundManager().playSound(MySoundEvent.BUTTON_CLICK);
                 });
                 txtLevel.setBackgroundResource(R.drawable.btn_level);
                 txtLevel.setTextColor(getResources().getColor(R.color.brown));

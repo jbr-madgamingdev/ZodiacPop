@@ -16,9 +16,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-/**
- * Created by Oscar Liang on 2022/09/18
- */
+
 
 public class BubbleSystem {
 
