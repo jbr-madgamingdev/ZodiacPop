@@ -30,7 +30,7 @@ import java.util.Objects;
 
 public class AppsFlyerLibUtil {
 
-    private static final int SPLASH_TIME_OUT = 3000;
+    private static final int SPLASH_TIME_OUT = 800;
     private static final String TAG = "AppsFlyerLibUtil";
     private static final String AF_ID = "LKvp79owWxnwLM8Kfe4MxB";
     private static final String APP_ID = "AB";
